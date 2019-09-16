@@ -2,8 +2,9 @@
 
 ## Summary
 
-This repo contains all of the notes Jake Fantin has taken for the Lighthouse Labs Web Developement Bootcamp.
+This repo contains all of the notes [Jake Fantin](https://github.com/JakeFantin) has taken for the [Lighthouse Labs](https://www.lighthouselabs.ca/) Web Developement Bootcamp.
 
-[Jake Fantin](https://github.com/JakeFantin)
+# Table of Contents
 
-[Lighthouse Labs](https://www.lighthouselabs.ca/)
+* [Week 1](/Week_1)
+  * [Day 1](/Week_1/Day_1)
